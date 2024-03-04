@@ -57,6 +57,7 @@
 		"list.activeSelectionBackground": "#DBDBDC",
 		"list.activeSelectionForeground": "#232324",
 		"list.focusBackground": "#DBDBDC",
+		"list.focusForeground": "#232324",
 		"list.hoverBackground": "#DBDBDC66",
 		"list.highlightForeground": "#121417",
 		"list.inactiveSelectionBackground": "#DBDBDC",
@@ -67,6 +68,8 @@
 		"settings.settingsHeaderHoverForeground": "#ffffff",
 		"settings.rowHoverBackground": "#232324",
 		"settings.focusedRowBackground": "#232324",
+		"settings.dropdownBackground": "#e3d9d9",
+		"settings.dropdownForeground": "#230505e3",
 		// https://code.visualstudio.com/api/references/theme-color#quick-picker-colors
 		"pickerGroup.border": "#526FFF",
 		// https://code.visualstudio.com/api/references/theme-color#scrollbar-control
@@ -116,27 +119,27 @@
 		"testing.message.info.decorationForeground": "#ffffff",
 		"testing.message.info.lineBackground": "#ffffff",
 		// panel below the editor area https://code.visualstudio.com/api/references/theme-color#panel-colors
-		"panel.background": "#303030",
+		"panel.background": "#eeebeb",
 		"panel.border": "#EAEAEB",
 		"panel.dropBorder": "#EAEAEB",
 		"panelInput.border": "#EAEAEB",
 		"panelTitle.activeBorder": "#EAEAEB",
-		"panelTitle.activeForeground": "#EAEAEB",
-		"panelTitle.inactiveForeground": "#EAEAEB",
+		"panelTitle.activeForeground": "#353538",		
+		"panelTitle.inactiveForeground": "#79797d",
 		"panelSection.border": "#EAEAEB",
 		"panelSection.dropBackground": "#303030",
 		"panelSectionHeader.border": "#EAEAEB",
 		"panelSectionHeader.foreground": "#EAEAEB",
 		"panelSectionHeader.background": "#EAEAEB",
+		"outputView.background": "#303030",
 		// terminal https://code.visualstudio.com/api/references/theme-color#integrated-terminal-colors
 		"terminal.foreground": "#f7f4f4e3",
 		"terminal.background": "#303030",
 		// https://code.visualstudio.com/api/references/theme-color#dropdown-control
-		"dropdown.background": "#303030",
-		"dropdown.listBackground": "#303030",
-		"dropdown.foreground": "#f7f4f4e3",
+		"dropdown.background": "#e3d9d9",
+		"dropdown.foreground": "#230505e3",
+		"dropdown.listBackground": "#e3d9d9",
 		"dropdown.border": "#f7f4f4e3",
-
 	},
 	"tokenColors": [
 		{
