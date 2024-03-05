@@ -132,7 +132,7 @@
 			}
 		},
 		{
-			"scope": "variable.other.property.js",
+			"scope": "meta.object-literal.key, variable.other.property, variable.other.object.property",
 			"settings": {
 				"foreground": "#6290C5",
 				"fontStyle": ""
