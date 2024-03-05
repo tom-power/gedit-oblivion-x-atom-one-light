@@ -33,7 +33,7 @@
         "input.foreground": "#121417",
         "input.border": "#DBDBDC",
         "focusBorder": "#526FFF",
-        "list.activeSelectionBackground": "#6B83ED",
+		"list.activeSelectionBackground": "#91919266",
         "list.activeSelectionForeground": "#232324",
         "list.focusBackground": "#6B83ED",
         "list.focusForeground": "#121417",
