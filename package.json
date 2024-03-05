@@ -1,7 +1,7 @@
 {
-    "name": "oblivion-light-ui",
-    "displayName": "oblivion light ui",
-    "description": "port of text mate oblivion theme with light ui",
+    "name": "gedit-oblivion-x-atom-one-light",
+    "displayName": "Gedit Oblivion x Atom One Light",
+    "description": "Port of Gedit Oblivion theme, with a light UI (like Atom One Light)",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.68.0"
@@ -12,17 +12,17 @@
     "contributes": {
         "themes": [
             {
-                "label": "oblivion light ui",
+                "label": "Gedit Oblivion x Atom One Light",
                 "uiTheme": "vs",
-                "path": "./themes/oblivion light ui-color-theme.json"
+                "path": "./themes/gedit-oblivion-x-atom-one-light.json"
             }
         ]
     },
     "repository": {
-		"type": "git",
-		"url": "https://github.com/tom-power/oblivion-light-ui-vscode-theme.git"
-	},    
+        "type": "git",
+        "url": "https://github.com/tom-power/gedit-oblivion-x-atom-one-light.git"
+    },
     "scripts": {
         "build": "mkdir -p build && vsce package --out build/"
-    }    
+    }
 }
