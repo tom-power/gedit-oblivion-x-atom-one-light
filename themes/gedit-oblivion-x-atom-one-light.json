@@ -122,12 +122,12 @@
 		"peekViewEditor.background": "#424243",
 
 		// panel below the editor area https://code.visualstudio.com/api/references/theme-color#panel-colors
-		"panel.background": "#EAEAEB",
-		"panel.border": "#121417",
-		"panelTitle.activeBorder": "#121417",
-		"panelTitle.activeForeground": "#121417",
-		"panelTitle.inactiveForeground": "#121417",
-		"panelSectionHeader.foreground": "#121417",
+		"panel.background": "#303030",
+		"panel.border": "#EAEAEB",
+		"panelTitle.activeBorder": "#EAEAEB",
+		"panelTitle.activeForeground": "#EAEAEB",
+		"panelTitle.inactiveForeground": "#EAEAEB",
+		"panelSectionHeader.foreground": "#EAEAEB",
 		"panelSectionHeader.background": "#EAEAEB",
 
 		// terminal https://code.visualstudio.com/api/references/theme-color#integrated-terminal-colors
