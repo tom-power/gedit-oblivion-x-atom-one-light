@@ -10,9 +10,11 @@ Sources:
 - [atom one light](https://github.com/atom/one-light-ui)
 - [atom one light vscode](https://github.com/akamud/vscode-theme-onelight)
 
+![demo](https://github.com/tom-power/gedit-oblivion-x-atom-one-light/blob/master/assets/sample.png)
+
 ### Installation
 
-Install [vsce](https://github.com/microsoft/vscode-vsce), if on mac install [vscode cli](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line) then:
+Install [vsce](https://github.com/microsoft/vscode-vsce), if you're on macOS install [vscode cli](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line) then:
 
 ```
 git clone https://github.com/tom-power/gedit-oblivion-x-atom-one-light
