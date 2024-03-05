@@ -17,6 +17,7 @@
 		"editorBracketMatch.background": "#9F5A2B",
 		"editorBracketMatch.border": "#3a3e40",
 		"editorLink.activeForeground": "#FFFFFF",
+		"editorGutter.foldingControlForeground":"#555753",
 		// editor widget is shown in front of the editor content https://code.visualstudio.com/api/references/theme-color#editor-widget-colors
 		"editorHoverWidget.foreground": "#EAEAEB",
 		"editorHoverWidget.background": "#303030",
@@ -49,6 +50,7 @@
 		// https://code.visualstudio.com/api/references/theme-color#input-control
 		"input.background": "#FFFFFF",
 		"input.foreground": "#121417",
+		"input.placeholderForeground": "#88898b80",
 		"input.border": "#DBDBDC",
 		// list and trees like the File Explorer https://code.visualstudio.com/api/references/theme-color#lists-and-trees
 		"list.activeSelectionBackground": "#DBDBDC",
@@ -133,6 +135,7 @@
 		"dropdown.listBackground": "#303030",
 		"dropdown.foreground": "#f7f4f4e3",
 		"dropdown.border": "#f7f4f4e3",
+
 	},
 	"tokenColors": [
 		{
