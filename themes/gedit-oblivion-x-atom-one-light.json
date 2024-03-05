@@ -124,9 +124,14 @@
 		// panel below the editor area https://code.visualstudio.com/api/references/theme-color#panel-colors
 		"panel.background": "#303030",
 		"panel.border": "#EAEAEB",
+		"panel.dropBorder": "#EAEAEB",
+		"panelInput.border": "#EAEAEB",
 		"panelTitle.activeBorder": "#EAEAEB",
-		"panelTitle.activeForeground": "#EAEAEB",
+		"panelTitle.activeForeground": "#EAEAEB",		
 		"panelTitle.inactiveForeground": "#EAEAEB",
+		"panelSection.border": "#EAEAEB",
+		"panelSection.dropBackground": "#303030",
+		"panelSectionHeader.border": "#EAEAEB",
 		"panelSectionHeader.foreground": "#EAEAEB",
 		"panelSectionHeader.background": "#EAEAEB",
 
@@ -135,10 +140,10 @@
 		"terminal.background": "#303030",
 		
 		// https://code.visualstudio.com/api/references/theme-color#dropdown-control
-		"dropdown.background": "#ffffff",
-		"dropdown.listBackground": "#ffffff",
-		"dropdown.foreground": "#121417",
-		"dropdown.border": "#526FFF",
+		"dropdown.background": "#303030",
+		"dropdown.listBackground":"#303030",
+		"dropdown.foreground":  "#f7f4f4e3",
+		"dropdown.border": "#f7f4f4e3",
 	},
 	"tokenColors": [
 		{
