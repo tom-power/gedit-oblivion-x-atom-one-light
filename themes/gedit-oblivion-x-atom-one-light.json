@@ -63,13 +63,18 @@
 		"list.inactiveSelectionBackground": "#DBDBDC",
 		"list.inactiveSelectionForeground": "#232324",
 		"list.deemphasizedForeground": "#232324",
+		// https://code.visualstudio.com/api/references/theme-color#dropdown-control
+		"dropdown.background": "#303030",
+		"dropdown.foreground": "#e3d9d9",
+		"dropdown.listBackground": "#303030",
+		"dropdown.border": "#f7f4f4e3",
 		// GUI settings editor https://code.visualstudio.com/api/references/theme-color#settings-editor-colors
 		"settings.headerForeground": "#ffffff",
 		"settings.settingsHeaderHoverForeground": "#ffffff",
 		"settings.rowHoverBackground": "#232324",
 		"settings.focusedRowBackground": "#232324",
-		"settings.dropdownBackground": "#e3d9d9",
-		"settings.dropdownForeground": "#230505e3",
+		"settings.dropdownBackground": "#303030",
+		"settings.dropdownForeground": "#e3d9d9",
 		// https://code.visualstudio.com/api/references/theme-color#quick-picker-colors
 		"pickerGroup.border": "#526FFF",
 		// https://code.visualstudio.com/api/references/theme-color#scrollbar-control
@@ -135,11 +140,6 @@
 		// terminal https://code.visualstudio.com/api/references/theme-color#integrated-terminal-colors
 		"terminal.foreground": "#f7f4f4e3",
 		"terminal.background": "#303030",
-		// https://code.visualstudio.com/api/references/theme-color#dropdown-control
-		"dropdown.background": "#e3d9d9",
-		"dropdown.foreground": "#230505e3",
-		"dropdown.listBackground": "#e3d9d9",
-		"dropdown.border": "#f7f4f4e3",
 	},
 	"tokenColors": [
 		{
