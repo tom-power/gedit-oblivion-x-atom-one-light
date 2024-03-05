@@ -179,8 +179,25 @@
 				"fontStyle": ""
 			}
 		},
+		// javascript properties
 		{
 			"scope": "meta.object-literal.key, variable.other.property, variable.other.object.property",
+			"settings": {
+				"foreground": "#6290C5",
+				"fontStyle": ""
+			}
+		},
+		// python properties
+		{
+			"scope": "meta.indexed-name, meta.attribute, variable.language.special.self, variable.other.object.property",
+			"settings": {
+				"foreground": "#6290C5",
+				"fontStyle": ""
+			}
+		},
+		// shell assignment
+		{
+			"scope": "variable.other.normal",
 			"settings": {
 				"foreground": "#6290C5",
 				"fontStyle": ""
