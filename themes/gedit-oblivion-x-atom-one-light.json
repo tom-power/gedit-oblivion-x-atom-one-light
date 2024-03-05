@@ -52,6 +52,7 @@
 		"input.foreground": "#121417",
 		"input.placeholderForeground": "#88898b80",
 		"input.border": "#DBDBDC",
+		"selection.background": "#6B83ED", // .... for input fields or text areas ... 
 		// list and trees like the File Explorer https://code.visualstudio.com/api/references/theme-color#lists-and-trees
 		"list.activeSelectionBackground": "#DBDBDC",
 		"list.activeSelectionForeground": "#232324",
