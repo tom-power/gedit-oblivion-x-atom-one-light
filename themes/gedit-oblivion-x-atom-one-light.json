@@ -15,7 +15,10 @@
 		"editor.selectionBackground": "#555753",
 		"editorCursor.foreground": "#d3d7cf",
 		"editorWhitespace.foreground": "#3b3a32",
-		"editorHoverWidget.background": "#EAEAEB",
+
+		// editor widget is shown in front of the editor content https://code.visualstudio.com/api/references/theme-color#editor-widget-colors
+		"editorHoverWidget.foreground": "#EAEAEB",
+		"editorHoverWidget.background": "#303030",
         "editorHoverWidget.border": "#DBDBDC",
 		"editorSuggestWidget.foreground": "#121417",
 		"editorSuggestWidget.background": "#EAEAEB",
