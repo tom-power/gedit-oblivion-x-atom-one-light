@@ -114,12 +114,22 @@
 		"badge.background": "#526FFF",
 		"badge.foreground": "#FFFFFF",
 
-		// Peek views are used to show references https://code.visualstudio.com/api/references/theme-color#peek-view-colors
+		// Peek views are used to show references https://code.visualstudio.com/api/references/theme-color#peek-view-colors		
 		"peekView.border": "#526FFF",
+		"peekViewTitleLabel.foreground": "#ffffff",
+		"peekViewTitleDescription.foreground": "#ffffff",				
+		"peekViewTitle.background": "#424243",		
 		"peekViewResult.background": "#424243",
 		"peekViewResult.selectionBackground": "#424243",
-		"peekViewTitle.background": "#424243",
-		"peekViewEditor.background": "#424243",
+		"peekViewResult.selectionForeground": "#ffffff",
+		"peekViewResult.fileForeground": "#ffffff",
+		"peekViewResult.lineForeground": "#ffffff",
+
+		// https://code.visualstudio.com/api/references/theme-color#testing-colors
+		"testing.message.error.decorationForeground":"#ffffff",
+		"testing.message.error.lineBackground":"#ffffff",
+		"testing.message.info.decorationForeground":"#ffffff",
+		"testing.message.info.lineBackground":"#ffffff",			
 
 		// panel below the editor area https://code.visualstudio.com/api/references/theme-color#panel-colors
 		"panel.background": "#303030",
