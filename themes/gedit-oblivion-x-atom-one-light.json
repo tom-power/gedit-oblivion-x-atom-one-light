@@ -29,6 +29,7 @@
 		"editorWidget.border": "#E5E5E6",
 		"editorLineNumber.foreground": "#747D9180",
 		"editorLineNumber.activeForeground": "#e6e9f080",
+		"editorGhostText.foreground":"#e6e9f080",
 
 		// Editor Groups are the containers of editors https://code.visualstudio.com/api/references/theme-color#editor-groups-tabs
 		"editorGroup.border": "#DBDBDC",
