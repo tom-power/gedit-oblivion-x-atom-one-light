@@ -125,6 +125,13 @@
 		{
 			"scope": "variable",
 			"settings": {
+				"foreground": "#FFFFFF",
+				"fontStyle": ""
+			}
+		},
+		{
+			"scope": "variable.other.property.js",
+			"settings": {
 				"foreground": "#6290C5",
 				"fontStyle": ""
 			}
