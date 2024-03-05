@@ -2,7 +2,7 @@
     "name": "gedit-oblivion-x-atom-one-light",
     "displayName": "Gedit Oblivion x Atom One Light",
     "description": "Port of Gedit Oblivion theme, with a light UI (like Atom One Light)",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.68.0"
     },
