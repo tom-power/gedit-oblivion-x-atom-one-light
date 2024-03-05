@@ -185,7 +185,7 @@
 				"fontStyle": ""
 			}
 		},
-		// javascript properties
+		// javascript properties 
 		{
 			"scope": "meta.object-literal.key, variable.other.property, variable.other.object.property",
 			"settings": {
@@ -199,6 +199,14 @@
 			"settings": {
 				"foreground": "#6290C5",
 				"fontStyle": ""
+			}
+		},
+		// python functions
+		{
+			"scope": "meta.function-call",
+			"settings": {
+				"foreground": "#FFFFFF",
+				"fontStyle": "bold"
 			}
 		},
 		// shell assignment
