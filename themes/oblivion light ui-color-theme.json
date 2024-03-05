@@ -88,6 +88,8 @@
 		"dropdown.listBackground": "#ffffff",
 		"dropdown.foreground": "#121417",
 		"dropdown.border": "#526FFF",
+		"editorLineNumber.foreground": "#747D9180",
+		"editorLineNumber.activeForeground": "#e6e9f080"
 	},
 	"tokenColors": [
 		{
