@@ -1,0 +1,28 @@
+{
+    "name": "oblivion-light-ui",
+    "displayName": "oblivion light ui",
+    "description": "port of text mate oblivion theme with light ui",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "oblivion light ui",
+                "uiTheme": "vs",
+                "path": "./themes/oblivion light ui-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/tom-power/oblivion-light-ui-vscode-theme.git"
+	},    
+    "scripts": {
+        "build": "mkdir -p build && vsce package --out build/"
+    }    
+}
