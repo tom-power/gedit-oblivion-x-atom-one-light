@@ -6,6 +6,7 @@
     "engines": {
         "vscode": "^1.68.0"
     },
+    "publisher": "tpower21",
     "categories": [
         "Themes"
     ],
