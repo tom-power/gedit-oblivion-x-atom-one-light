@@ -167,6 +167,12 @@
 			}
 		},
 		{
+			"scope": "constant.character.escape.line-continuation",
+			"settings": {
+				"foreground": "#d3d7cf",
+			}
+		},
+		{
 			"scope": "variable",
 			"settings": {
 				"foreground": "#FFFFFF",
