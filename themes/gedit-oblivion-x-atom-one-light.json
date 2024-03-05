@@ -8,13 +8,15 @@
 		"icon.foreground": "#121417",		
 		"widget.shadow": "#ffffff00",
 
-		// non syntax editor colors https://code.visualstudio.com/api/references/theme-color#editor-colors
+		// editor colors https://code.visualstudio.com/api/references/theme-color#editor-colors
 		"editor.background": "#303030",
 		"editor.foreground": "#d3d7cf",
 		"editor.lineHighlightBackground": "#3a3e40",
 		"editor.selectionBackground": "#555753",
 		"editorCursor.foreground": "#d3d7cf",
 		"editorWhitespace.foreground": "#3b3a32",
+		"editorBracketMatch.background": "#9F5A2B",
+		"editorBracketMatch.border": "#3a3e40",
 
 		// editor widget is shown in front of the editor content https://code.visualstudio.com/api/references/theme-color#editor-widget-colors
 		"editorHoverWidget.foreground": "#EAEAEB",
