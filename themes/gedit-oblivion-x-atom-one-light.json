@@ -5,7 +5,7 @@
 		// base colors https://code.visualstudio.com/api/references/theme-color#base-colors
 		"foreground": "#d3d7cf",
 		"focusBorder": "#526FFF",
-		"icon.foreground": "#121417",
+		"icon.foreground": "#d3d7cf",
 		"widget.shadow": "#ffffff00",
 		// editor colors https://code.visualstudio.com/api/references/theme-color#editor-colors
 		"editor.background": "#303030",
