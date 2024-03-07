@@ -2,7 +2,7 @@
 
 [VSCode](https://code.visualstudio.com/) dark syntax theme based on the [Gedit Oblivion theme](https://github.com/mig/gedit-themes/blob/master/oblivion.xml), with a light UI based on [Atom One Light UI theme](https://github.com/atom/one-light-ui).
 
-![demo](https://github.com/tom-power/gedit-oblivion-x-atom-one-light/blob/master/assets/sample.png)
+![demo](https://github.com/tom-power/gedit-oblivion-x-atom-one-light/blob/main/assets/sample.png)
 
 > **Note**  
 > The settings pages and the panel are inheriting editor colours so are dark, which I think is ok, though inconsistent. Any thoughts/ideas welcome, otherwise maybe possible with features suggested in [#25986](https://github.com/microsoft/vscode/issues/25986).
