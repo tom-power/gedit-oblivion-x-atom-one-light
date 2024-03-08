@@ -24,6 +24,6 @@
         "url": "https://github.com/tom-power/gedit-oblivion-x-atom-one-light.git"
     },
     "scripts": {
-        "build": "mkdir -p build && vsce package --out build/"
+        "build": "rm -rf build && mkdir build && npx @vscode/vsce package --out build/"
     }
 }
