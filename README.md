@@ -6,6 +6,7 @@
 
 > **Note**  
 > Used dark colors for the panel and settings, as unable find settings to mix light UI there, also `icon.foreground` used to work with both. 
+> 
 > Any thoughts/ideas on how to improve welcome, otherwise maybe possible with features suggested in [#25986](https://github.com/microsoft/vscode/issues/25986).
 
 ### Installation
