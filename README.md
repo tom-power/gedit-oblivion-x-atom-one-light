@@ -5,7 +5,8 @@
 ![demo](https://github.com/tom-power/gedit-oblivion-x-atom-one-light/blob/main/assets/sample.png)
 
 > **Note**  
-> The settings pages and the panel are inheriting editor colours so are dark, which I think is ok, though inconsistent. Any thoughts/ideas welcome, otherwise maybe possible with features suggested in [#25986](https://github.com/microsoft/vscode/issues/25986).
+> Used dark colors for the panel and settings, as unable find settings to mix light UI there, also `icon.foreground` used to work with both. 
+> Any thoughts/ideas on how to improve welcome, otherwise maybe possible with features suggested in [#25986](https://github.com/microsoft/vscode/issues/25986).
 
 ### Installation
 
