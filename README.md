@@ -5,7 +5,7 @@
 ![demo](https://github.com/tom-power/gedit-oblivion-x-atom-one-light/blob/main/assets/sample.png)
 
 > **Note**  
-> Used dark colors for the panel and settings, as unable find settings to mix light UI there, also `icon.foreground` used to work with both. 
+> Used dark colors for the panel and settings, as unable find settings to mix light UI there, also mid color for `icon.foreground` used to work with UI and editor, as it's not overridden by list settings etc. 
 > 
 > Any thoughts/ideas on how to improve welcome, otherwise maybe possible with features suggested in [#25986](https://github.com/microsoft/vscode/issues/25986).
 
