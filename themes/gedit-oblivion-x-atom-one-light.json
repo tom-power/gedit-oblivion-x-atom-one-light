@@ -56,11 +56,13 @@
 		// list and trees like the File Explorer https://code.visualstudio.com/api/references/theme-color#lists-and-trees
 		"list.activeSelectionBackground": "#DBDBDC",
 		"list.activeSelectionForeground": "#232324",
+		"list.activeSelectionIconForeground": "#232324",
 		"list.focusBackground": "#DBDBDC",
 		"list.hoverBackground": "#DBDBDC66",
 		"list.highlightForeground": "#121417",
 		"list.inactiveSelectionBackground": "#DBDBDC",
 		"list.inactiveSelectionForeground": "#232324",
+		"list.inactiveSelectionIconForeground": "#232324",
 		"list.deemphasizedForeground": "#232324",
 		// GUI settings editor https://code.visualstudio.com/api/references/theme-color#settings-editor-colors
 		"settings.headerForeground": "#ffffff",
