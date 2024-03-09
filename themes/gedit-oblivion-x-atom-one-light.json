@@ -5,7 +5,7 @@
 		// base colors https://code.visualstudio.com/api/references/theme-color#base-colors
 		"foreground": "#d3d7cf",
 		"focusBorder": "#526FFF",
-		"icon.foreground": "#737a6b",
+		"icon.foreground": "#737a6b", // mid color as not overridden by list settings
 		"widget.shadow": "#ffffff00",
 		// editor colors https://code.visualstudio.com/api/references/theme-color#editor-colors
 		"editor.background": "#303030",
@@ -54,6 +54,7 @@
 		"input.border": "#DBDBDC",
 		"selection.background": "#6B83ED", // .... for input fields or text areas ... 
 		// list and trees like the File Explorer https://code.visualstudio.com/api/references/theme-color#lists-and-trees
+		// icon color from icon.foreground
 		"list.activeSelectionBackground": "#DBDBDC",
 		"list.activeSelectionForeground": "#232324",
 		"list.activeSelectionIconForeground": "#232324",
@@ -118,6 +119,7 @@
 		"testing.message.info.decorationForeground": "#ffffff",
 		"testing.message.info.lineBackground": "#ffffff",
 		// panel below the editor area https://code.visualstudio.com/api/references/theme-color#panel-colors
+		// can't set output/debug, so use dark here for now
 		"panel.background": "#303030",
 		"panel.border": "#EAEAEB",
 		"panel.dropBorder": "#EAEAEB",
