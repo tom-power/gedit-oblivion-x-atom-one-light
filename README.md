@@ -7,19 +7,19 @@
 > **Note**  
 > Used dark colors for the panel and settings, as unable find settings to mix light UI there, also mid color for `icon.foreground` used to work with UI and editor, as it's not overridden by list settings etc. 
 > 
-> Any thoughts/ideas on how to improve welcome, otherwise maybe possible with features suggested in [#25986](https://github.com/microsoft/vscode/issues/25986).
+> Any thoughts/ideas on how to improve welcome, maybe separate UI/editor theming will be supported in the [future](https://github.com/microsoft/vscode/issues/25986) and this will be easier.
 
 ### Installation
 
-Install [vsce](https://github.com/microsoft/vscode-vsce), if you're on macOS install [VSCode shell command](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line) then:
+Install [vscode](https://github.com/microsoft/vscode), [node/npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) then:
 
 ```
-git clone https://github.com/tom-power/gedit-oblivion-x-atom-one-light
-cd ./gedit-oblivion-x-atom-one-light
+git clone https://github.com/tom-power/gedit-oblivion-x-atom-one-light &&
+cd ./gedit-oblivion-x-atom-one-light &&
 sh/install.sh
 ```
 
-and reload VSCode.
+and reload [vscode](https://github.com/microsoft/vscode).
 
 #### Sources:
 
