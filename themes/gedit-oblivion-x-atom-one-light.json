@@ -103,12 +103,18 @@
 		// Badges are small information labels https://code.visualstudio.com/api/references/theme-color#badge
 		"badge.background": "#526FFF",
 		"badge.foreground": "#FFFFFF",
-		// Peek views are used to show references https://code.visualstudio.com/api/references/theme-color#peek-view-colors		
+		// Peek views are used to show references https://code.visualstudio.com/api/references/theme-color#peek-view-colors
+		"peekViewEditor.background": "#424243",
+		"peekViewEditorGutter.background": "#424243",
+		"peekViewEditor.matchHighlightBackground": "#424243",
+		"peekViewEditor.matchHighlightBorder": "#424243",		
+		"peekViewEditorStickyScroll.background": "#424243",		
 		"peekView.border": "#526FFF",
 		"peekViewTitleLabel.foreground": "#ffffff",
 		"peekViewTitleDescription.foreground": "#ffffff",
 		"peekViewTitle.background": "#424243",
 		"peekViewResult.background": "#424243",
+		"peekViewResult.matchHighlightBackground": "#424243",
 		"peekViewResult.selectionBackground": "#424243",
 		"peekViewResult.selectionForeground": "#ffffff",
 		"peekViewResult.fileForeground": "#ffffff",
