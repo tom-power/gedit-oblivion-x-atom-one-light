@@ -186,6 +186,13 @@
 		"symbolIcon.typeParameterForeground": "#424243",
 		"symbolIcon.unitForeground": "#424243",
 		"symbolIcon.variableForeground": "#424243",
+		// https://code.visualstudio.com/api/references/theme-color#text-colors
+		"textLink.activeForeground": "#c8e1ff",
+    "textBlockQuote.background": "#424243",
+    "textBlockQuote.border": "#444d56",
+    "textCodeBlock.background": "#2f363d",
+    "textPreformat.foreground": "#C4AA75",
+    "textSeparator.foreground": "#586069",
 	},
 	"tokenColors": [
 		{
