@@ -1,19 +1,26 @@
 # Gedit Oblivion x Atom One Light
 
-[VSCode](https://code.visualstudio.com/) dark syntax theme based on the [Gedit Oblivion theme](https://github.com/mig/gedit-themes/blob/master/oblivion.xml), with a light UI based on [Atom One Light UI theme](https://github.com/atom/one-light-ui).
+[VSCode](https://code.visualstudio.com/) theme with:
 
-![demo](https://github.com/tom-power/gedit-oblivion-x-atom-one-light/blob/main/assets/sample.png)
+- dark syntax based on [Gedit Oblivion theme](https://github.com/mig/gedit-themes/blob/master/oblivion.xml)
+- light UI based on [Atom One Light UI theme](https://github.com/atom/one-light-ui).
 
-> **Note**  
-> Used dark colors for the panel and settings, as unable find settings that would add a light UI there, also used a mid color for `icon.foreground` as it's not overridden by list settings etc, and needed to look ok in different part of the UI.
-> 
-> Any thoughts/ideas on how to improve welcome, maybe separate UI/editor theming will be supported in the [future](https://github.com/microsoft/vscode/issues/25986) and this will be easier.
+### Screenshot
 
-### Installation
+![demo](https://raw.githubusercontent.com/tom-power/gedit-oblivion-x-atom-one-light/main/assets/sample.png)
+
+### Compromises 
+
+- used dark colors for the panel and settings as unable find settings that would add a light UI there
+- used a mid color for `icon.foreground` as it's not overridden by list settings
+ 
+Any thoughts/ideas on how to improve welcome! Hoping separate UI/editor theming will be supported by VSCode [one day](https://github.com/microsoft/vscode/issues/25986) and this will be easier.
+
+### Building
 
 Install [vscode](https://github.com/microsoft/vscode), [node/npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) then:
 
-```
+```shell
 git clone https://github.com/tom-power/gedit-oblivion-x-atom-one-light &&
 cd ./gedit-oblivion-x-atom-one-light &&
 sh/install.sh
