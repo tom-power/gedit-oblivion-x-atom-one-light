@@ -3,7 +3,7 @@
     "icon": "assets/sample.png",
     "displayName": "gedit Oblivion x Atom One Light",
     "description": "Dark syntax theme ported from gedit Oblivion, with a light UI like Atom One Light",
-    "version": "0.2.4",
+    "version": "0.2.5",
     "engines": {
         "vscode": "^1.68.0"
     },
@@ -15,7 +15,7 @@
         "themes": [
             {
                 "label": "gedit Oblivion x Atom One Light",
-                "uiTheme": "vs-dark",
+                "uiTheme": "vs",
                 "path": "./themes/gedit-oblivion-x-atom-one-light.json"
             }
         ]
