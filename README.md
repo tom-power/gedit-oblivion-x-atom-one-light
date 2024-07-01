@@ -1,9 +1,9 @@
-# Gedit Oblivion x Atom One Light
+# gedit Oblivion x Atom One Light
 
 [VSCode](https://code.visualstudio.com/) theme with:
 
-- dark syntax based on [Gedit Oblivion theme](https://github.com/mig/gedit-themes/blob/master/oblivion.xml)
-- light UI based on [Atom One Light UI theme](https://github.com/atom/one-light-ui).
+- dark syntax based on [gedit Oblivion](https://github.com/mig/gedit-themes/blob/master/oblivion.xml)
+- light UI based on [Atom One Light](https://github.com/atom/one-light-ui).
 
 ### Screenshot
 
@@ -30,7 +30,7 @@ and reload [vscode](https://github.com/microsoft/vscode).
 
 #### Sources:
 
-- [Atom Gedit Oblivion](https://github.com/robertfoss/atom_gedit_oblivion)
+- [Atom gedit Oblivion](https://github.com/robertfoss/atom_gedit_oblivion)
 - [Atom One Light UI theme](https://github.com/atom/one-light-ui)
 - [Atom One Light VSCode](https://github.com/akamud/vscode-theme-onelight)
 - [Oblivion VSCode](https://github.com/Educorreia932/Oblivion-Theme)

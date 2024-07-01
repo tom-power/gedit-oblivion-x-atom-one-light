@@ -1,8 +1,9 @@
 {
     "name": "gedit-oblivion-x-atom-one-light",
-    "displayName": "Gedit Oblivion x Atom One Light",
-    "description": "Port of Gedit Oblivion theme, with a light UI (like Atom One Light)",
-    "version": "0.2.1",
+    "icon": "assets/sample.png",
+    "displayName": "gedit Oblivion x Atom One Light",
+    "description": "Dark syntax theme ported from gedit Oblivion, with a light UI like Atom One Light",
+    "version": "0.2.3",
     "engines": {
         "vscode": "^1.68.0"
     },
@@ -13,7 +14,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Gedit Oblivion x Atom One Light",
+                "label": "gedit Oblivion x Atom One Light",
                 "uiTheme": "vs",
                 "path": "./themes/gedit-oblivion-x-atom-one-light.json"
             }
